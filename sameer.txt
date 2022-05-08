@@ -1,1 +1,4 @@
-hey! sameer hoe are  you
+alwaya make a branch from default branch 
+merge your branch to default branch 
+once merge branch shouldn't be used again thus delet after merge 
+you can only delet branch after checking out to other branch 
